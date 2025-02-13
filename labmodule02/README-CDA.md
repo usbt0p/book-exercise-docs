@@ -10,7 +10,7 @@ NOTE: Include two full paragraphs describing your implementation approach by ans
 
 What does your implementation do?
 
-La implementación es la base del sistema, permitiendo la recogida de telemetría de memoria y CPU para su gestión.
+La implementación es la base del sistema, permitiendo la recogida de telemetría de memoria y CPU para su gestión. Como tal aún no hace nada aunque sienta las bases para poder recoger y monitorear la plataforma de IoT de forma adecuada.
 
 How does your implementation work?
 
